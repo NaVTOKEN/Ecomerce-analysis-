@@ -1,0 +1,17 @@
+order_id,order_date,customer_id,customer_name,region,product_id,product_name,category,price,quantity
+1001,2025-01-01,C001,Amit,North,P101,T-Shirt,Clothing,500,2
+1002,2025-01-01,C002,Ravi,South,P102,Shoes,Footwear,2000,1
+1003,2025-01-02,C003,Neha,West,P103,Watch,Accessories,3000,1
+1004,2025-01-02,C004,Pooja,East,P104,Bag,Accessories,800,3
+1005,2025-01-03,C005,Rahul,North,P101,T-Shirt,Clothing,500,4
+1006,2025-01-03,C006,Anjali,South,P105,Jeans,Clothing,1200,2
+1007,2025-01-04,C007,Karan,West,P106,Laptop Stand,Electronics,1000,1
+1008,2025-01-04,C008,Simran,East,P107,Sunglasses,Accessories,700,2
+1009,2025-01-05,C009,Arjun,North,P108,Backpack,Accessories,900,1
+1010,2025-01-05,C010,Ritika,South,P102,Shoes,Footwear,2000,2
+1011,2025-01-06,C011,Manish,West,P103,Watch,Accessories,3000,1
+1012,2025-01-06,C012,Sneha,East,P104,Bag,Accessories,800,2
+1013,2025-01-07,C013,Deepak,North,P105,Jeans,Clothing,1200,3
+1014,2025-01-07,C014,Kavita,South,P101,T-Shirt,Clothing,500,5
+1015,2025-01-08,C015,Ajay,West,P106,Laptop Stand,Electronics,1000,2
+1016,2025-01-08,C016,Meena,East,P108,Backpack,Accessories,900,1
