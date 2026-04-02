@@ -1,2 +1,0 @@
-# Ecomerce-analysis-
-Ecomerce analysis 
